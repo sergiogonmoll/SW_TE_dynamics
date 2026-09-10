@@ -20,6 +20,6 @@ Lee, K. G. L., Bartleet-Cross, C., Dong, S., González-Mollinedo, S., Pinto, A.,
 
 Lee, K. G. L., Pinto, A., Dong, S., González-Mollinedo, S., Lee, C. Z., Slate, J., Komdeur, J., Richardson, D. S., Dugdale, H. L., & Burke, T. (2026b). Inbreeding depression by polygenic load following a severe population bottleneck. BioRxiv. https://doi.org/10.64898/2026.06.03.729877
 
-A complete repository of the PhD thesis can be found here: 
+A complete repository of the PhD thesis has been created elsewhere since file size limitations make it hard to upload all data, and can be found here: https://drive.google.com/file/d/1W5KDuDYTOoX9cbLOTBuyc-lM4j5ymqMH/view?usp=sharing 
 
 For any additional questions: sergiogonmoll[at]gmail.com or h.l.dugdale[at]rug.nl
